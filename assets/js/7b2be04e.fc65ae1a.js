@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkxpert_view=self.webpackChunkxpert_view||[]).push([[3851],{3036:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/OceanDeepHealthcare/xpertview/blog/tags/hello","allTagsPath":"/OceanDeepHealthcare/xpertview/blog/tags","count":2,"unlisted":false}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkxpert_view=self.webpackChunkxpert_view||[]).push([[1099],{9713:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/xpertview/blog/tags/hola","allTagsPath":"/xpertview/blog/tags","count":1,"unlisted":false}')}}]);

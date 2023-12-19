@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkxpert_view=self.webpackChunkxpert_view||[]).push([[1421],{9261:e=>{e.exports=JSON.parse('{"permalink":"/OceanDeepHealthcare/xpertview/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

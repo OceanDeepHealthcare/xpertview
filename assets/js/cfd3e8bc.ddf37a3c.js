@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkxpert_view=self.webpackChunkxpert_view||[]).push([[5582],{3658:e=>{e.exports=JSON.parse('{"permalink":"/OceanDeepHealthcare/xpertview/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

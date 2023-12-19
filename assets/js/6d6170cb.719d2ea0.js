@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkxpert_view=self.webpackChunkxpert_view||[]).push([[9399],{7194:e=>{e.exports=JSON.parse('{"label":"docusaurus","permalink":"/xpertview/blog/tags/docusaurus","allTagsPath":"/xpertview/blog/tags","count":4,"unlisted":false}')}}]);
