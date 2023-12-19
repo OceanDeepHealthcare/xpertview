@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkxpert_view=self.webpackChunkxpert_view||[]).push([[4398],{1727:e=>{e.exports=JSON.parse('{"label":"docusaurus","permalink":"/OceanDeepHealthcare/xpertview/blog/tags/docusaurus","allTagsPath":"/OceanDeepHealthcare/xpertview/blog/tags","count":4,"unlisted":false}')}}]);
