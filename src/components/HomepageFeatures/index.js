@@ -9,7 +9,7 @@ const FeatureList = [
     description: (
       <>
         Xpertview was designed from the ground up with one thing in mind. 
-        Allow patients to access and download their health record from their provider and
+        Help patients to access and download their health record from their provider and
         get consulting services from expert practitioners.
       </>
     ),
